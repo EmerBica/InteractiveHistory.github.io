@@ -8,7 +8,7 @@ import './App.css'; // Import the CSS file
 
 const App = () => {
     return (
-        <Router>
+        <Router basename="/InteractiveHistory.github.io">
             <div className="container">
                 <Routes>
                     <Route exact path="/" element={<Home />} />
