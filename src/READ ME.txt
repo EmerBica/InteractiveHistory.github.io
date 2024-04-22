@@ -1,0 +1,11 @@
+Este projeto foi feito com React.js. Os códigos principais estão em `App.js`, `App.css`, `Home.js`, `StoryPage.js` e `Story.js`.
+
+Para rodar esta aplicação no navegador, siga os passos abaixo:
+
+1. Instale o Node.js e npm: Se você ainda não tem o Node.js e npm instalados, você pode baixá-los e instalá-los a partir do [site oficial do Node.js](https://nodejs.org/).
+
+2. Navegue até a pasta do projeto: Abra o terminal e use o comando `cd <caminho-para-a-pasta-do-projeto>` para navegar até a pasta do projeto. Substitua `<caminho-para-a-pasta-do-projeto>` pelo caminho onde você extraiu ou clonou o projeto.
+
+3. Instale as dependências: Execute o comando `npm install` para instalar todas as dependências listadas no arquivo `package.json`.
+
+4. Inicie a aplicação: Finalmente, execute o comando `npm start` para iniciar a aplicação. Isso deve abrir a aplicação no seu navegador padrão.
